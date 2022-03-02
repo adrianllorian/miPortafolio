@@ -60,13 +60,13 @@ function enlace_Trabajos3(){
 }
 
 function enlace_Trabajos4(){
-    $('#boton-Trabajo-2').click(function(){
+    $('#boton-Trabajo-4').click(function(){
         window.open('https://adrianllorian.github.io/scarpeo-web/','_blank');
     });
 }
 
 function enlace_Trabajos5(){
-    $('#boton-Trabajo-3').click(function(){
+    $('#boton-Trabajo-5').click(function(){
         window.open('https://adrianllorian.github.io/gestion-asociacion/','_blank');
     });
 }
